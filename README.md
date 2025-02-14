@@ -2,6 +2,22 @@
 Respotiório contendo informações sobre o markdown para explorar esta linguagem de marcação muito utilizada atualmente em diversos projetos e principalmente no github.  
 Vou deixar aqui o conhecimento obtido de dirversas fontes.
 
+# Sumário
+
+- [APRENDENDO MARKDOWN](#aprendendo-markdown)
+  - [ENFATIZAR TEXTO](#enfatizar-texto)
+  - [DECLARAR TÍTULOS](#declarar-títulos)
+  - [CRIAR LINKS DE IMAGENS E SITES](#criar-links-de-imagens-e-sites)
+  - [DEFINIR E CRIAR LISTAS ORDENADAS E NÃO ORDENADAS](#definir-e-criar-listas-ordenadas-e-não-ordenadas)
+  - [Criar Tabelas](#criar-tabelas)
+  - [Texto de citação](#texto-de-citação)
+  - [HTML incorporado ao markdown](#html-incorporado-ao-markdown)
+  - [Trabalhando com código dentro do markdown](#trabalhando-com-código-dentro-do-markdown)
+  - [Notificar um desenvolvedor ou equipe usando '@'](#notificar-um-desenvolvedor-ou-equipe-usando-@)
+  - [montiroramento de tarefas usando uma espécie de TODO interativo](#montiroramento-de-tarefas-usando-uma-espécie-de-todo-interativo)
+  - [Comandos de barra "/"](#comandos-de-barra-)
+  - [Alertas do markdown](#alertas-do-markdown)
+
 ---  
 ## ENFATIZAR TEXTO
 Como devemos enfatizar um texto no markdown
